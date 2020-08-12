@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LinkSpaces:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b47082d1-16dd-4256-91ee-2c3ab27ce59b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/LinkSpaces_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/LinkSpaces_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkSpaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkSpaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/WEB-INF/classes/url_controller/Addevent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/WEB-INF/classes/url_controller/FileUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/addevents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/addevents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/commentToggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/hello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/hideshow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/mainn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/mainnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/mainnnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/mainnnnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/mainnnnnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/navButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/assets/css/csss/radioChanger.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/chat.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/chat.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/comments.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/controllers/chatController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/controllers/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/events.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/events.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/myevents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/myevents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/pictures/events.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/pictures/lasith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/pictures/sasith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkSpaces/url_controller/Addevent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkSpaces/url_controller/FileUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/url_controller/Addevent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/url_controller/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/url_controller/AddEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/addevents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/addevents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/commentToggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/hello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/hideshow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/mainn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/mainnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/mainnnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/mainnnnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/mainnnnnn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/navButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/csss/radioChanger.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chat.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/chat.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/comments.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/controllers/chatController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/controllers/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/events.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/events.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/myevents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myevents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pictures/events.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/pictures/events.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pictures/lasith.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/pictures/lasith.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pictures/sasith.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/pictures/sasith.jpg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-572488808">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="css" value="19" />
+          <entry key="java" value="105" />
+          <entry key="js" value="20" />
+          <entry key="jsp" value="75" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="19" />
+          <entry key="JAVA" value="105" />
+          <entry key="JSP" value="75" />
+          <entry key="JavaScript" value="20" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="dummy" value="43" />
+          <entry key="java" value="2726" />
+          <entry key="js" value="2902" />
+          <entry key="jsp" value="2081" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JAVA" value="2726" />
+          <entry key="JSP" value="2081" />
+          <entry key="JavaScript" value="2898" />
+          <entry key="PLAIN_TEXT" value="43" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="465090119">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1397597619">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="css" value="5" />
+          <entry key="java" value="94" />
+          <entry key="js" value="13" />
+          <entry key="jsp" value="93" />
+          <entry key="sql" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="5" />
+          <entry key="JAVA" value="94" />
+          <entry key="JSP" value="93" />
+          <entry key="JavaScript" value="13" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="29" />
+          <entry key="java" value="290" />
+          <entry key="js" value="33" />
+          <entry key="jsp" value="381" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="29" />
+          <entry key="JAVA" value="290" />
+          <entry key="JSP" value="381" />
+          <entry key="JavaScript" value="33" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/UserDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="14" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/db_controller/JobController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2108">
+              <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/views/home/home.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="2" selection-start-line="1" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/views/home/header_home.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="211" selection-start-line="18" selection-start-column="211" selection-end-line="18" selection-end-column="211" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/views/job/header_jobs.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dump20190421.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4114">
+              <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>menubar</find>
+      <find>sidebar</find>
+      <find>cats</find>
+      <find>con</find>
+      <find>tablinks</find>
+      <find>tab</find>
+      <find>menu-bar</find>
+      <find>form</find>
+      <find>cont</find>
+      <find>live-chat</find>
+      <find>files</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadCommentsEvents.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadAllEventsViaUid.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadAllEvents.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/GetJobs.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadJobsViaTitle.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadJobs.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadComments.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoadEvents.java" />
+        <option value="$PROJECT_DIR$/src/controller/db_controller/CommentsEventsController.java" />
+        <option value="$PROJECT_DIR$/src/controller/db_controller/CommentsJobsController.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/DeleteComment.java" />
+        <option value="$PROJECT_DIR$/web/controller/eventsController.js" />
+        <option value="$PROJECT_DIR$/web/controller/homeController.js" />
+        <option value="$PROJECT_DIR$/web/myevents.jsp" />
+        <option value="$PROJECT_DIR$/web/events.jsp" />
+        <option value="$PROJECT_DIR$/web/addevents.jsp" />
+        <option value="$PROJECT_DIR$/web/file.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LogoutController.java" />
+        <option value="$PROJECT_DIR$/web/views/job/file.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/PostJob.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/AddEvent.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/FileUpload.java" />
+        <option value="$PROJECT_DIR$/web/header.jsp" />
+        <option value="$PROJECT_DIR$/web/views/register/register.jsp" />
+        <option value="$PROJECT_DIR$/web/views/job/post_job.jsp" />
+        <option value="$PROJECT_DIR$/web/views/event/addevents.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/job/FileUpload.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/event/AddEvent.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/auth/LogoutController.java" />
+        <option value="$PROJECT_DIR$/web/views/home/header_home.jsp" />
+        <option value="$PROJECT_DIR$/web/views/event/header_events.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/assets/css/login.css" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/db/Dbcon.java" />
+        <option value="$PROJECT_DIR$/src/controller/db_controller/IndustrialController.java" />
+        <option value="$PROJECT_DIR$/web/controller/jobsController.js" />
+        <option value="$PROJECT_DIR$/web/controller/postsController.js" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/comments/DeleteComment.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/comments/AddComment.java" />
+        <option value="$PROJECT_DIR$/src/controller/db_controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/web/views/register/reg_uni.jsp" />
+        <option value="$PROJECT_DIR$/web/views/register/reg_students.jsp" />
+        <option value="$PROJECT_DIR$/web/views/register/reg_industrial.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/db_controller/UniversityController.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/auth/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/controller/db_controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/controller/url_controller/auth/LoginController.java" />
+        <option value="$PROJECT_DIR$/web/views/home/home.jsp" />
+        <option value="$PROJECT_DIR$/web/views/job/header_jobs.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="50" />
+    <option name="width" value="1350" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="db_controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="url_controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="url_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="url_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="url_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="url_controller" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Link-Spaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Link-Spaces" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558680666144" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\out\artifacts\LinkSpaces_war_exploded\files\images" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\out\artifacts\LinkSpaces_war_exploded" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\src" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\src\db" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\src\controller\db_controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controller.db_controller" />
+      <recent name="db_controller" />
+      <recent name="model" />
+      <recent name="db" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\web\views" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\web\chat" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\web\home" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\web\job" />
+      <recent name="F:\class\Project Backs\91261\Link-Spaces\web\event" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7.0.56" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="LinkSpaces:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_56_LinkSpaces_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51739" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LinkSpaces:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b47082d1-16dd-4256-91ee-2c3ab27ce59b" name="Default Changelist" comment="" />
+      <created>1553346413503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553346413503</updated>
+      <workItem from="1553346430083" duration="12428000" />
+      <workItem from="1553577821180" duration="1807000" />
+      <workItem from="1553654746652" duration="57000" />
+      <workItem from="1553755677380" duration="49000" />
+      <workItem from="1553831144279" duration="16572000" />
+      <workItem from="1553921071676" duration="4472000" />
+      <workItem from="1553929751060" duration="18785000" />
+      <workItem from="1553953298866" duration="295000" />
+      <workItem from="1553954155948" duration="1168000" />
+      <workItem from="1554095340205" duration="2448000" />
+      <workItem from="1554121567872" duration="109000" />
+      <workItem from="1554122102857" duration="1277000" />
+      <workItem from="1554124302882" duration="2520000" />
+      <workItem from="1554128946777" duration="2686000" />
+      <workItem from="1554173367537" duration="83000" />
+      <workItem from="1554174056768" duration="16644000" />
+      <workItem from="1554271475485" duration="634000" />
+      <workItem from="1554531635470" duration="2582000" />
+      <workItem from="1554544737777" duration="39000" />
+      <workItem from="1554555543489" duration="7452000" />
+      <workItem from="1554618180770" duration="23209000" />
+      <workItem from="1554704477038" duration="11410000" />
+      <workItem from="1554872596266" duration="2978000" />
+      <workItem from="1554882552204" duration="12366000" />
+      <workItem from="1554900830599" duration="14570000" />
+      <workItem from="1554952207250" duration="18013000" />
+      <workItem from="1555042260745" duration="15949000" />
+      <workItem from="1555084102650" duration="1524000" />
+      <workItem from="1555412404243" duration="58568000" />
+      <workItem from="1555588626493" duration="4397000" />
+      <workItem from="1555596054740" duration="46244000" />
+      <workItem from="1555820094231" duration="23434000" />
+      <workItem from="1555908082941" duration="3313000" />
+      <workItem from="1556014051421" duration="14381000" />
+      <workItem from="1556122789511" duration="5243000" />
+      <workItem from="1556435976554" duration="1053000" />
+      <workItem from="1556698957362" duration="681000" />
+      <workItem from="1556985971355" duration="980000" />
+      <workItem from="1556987085667" duration="646000" />
+      <workItem from="1556989976275" duration="9000" />
+      <workItem from="1556990361598" duration="139000" />
+      <workItem from="1556995693915" duration="25000" />
+      <workItem from="1556995814978" duration="234000" />
+      <workItem from="1556996332017" duration="8000" />
+      <workItem from="1556996377362" duration="33000" />
+      <workItem from="1556997204456" duration="8000" />
+      <workItem from="1556998718874" duration="7000" />
+      <workItem from="1556998760082" duration="8000" />
+      <workItem from="1557034369806" duration="1097000" />
+      <workItem from="1557138694610" duration="678000" />
+      <workItem from="1557466644907" duration="20558000" />
+      <workItem from="1557568517183" duration="2321000" />
+      <workItem from="1557588743670" duration="13017000" />
+      <workItem from="1557642293335" duration="23461000" />
+      <workItem from="1557763643893" duration="616000" />
+      <workItem from="1557810084643" duration="8572000" />
+      <workItem from="1557907780412" duration="1210000" />
+      <workItem from="1558673954115" duration="220000" />
+      <workItem from="1558677796476" duration="1135000" />
+      <workItem from="1558680029181" duration="687000" />
+      <workItem from="1558683316716" duration="606000" />
+      <workItem from="1558684977373" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="426574000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82978725" visible="true" weight="0.10671141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.17021276" side_tool="true" visible="true" weight="0.10671141" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3106383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.18865249" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.049099836" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/LinkSpaces_war_exploded/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/main1.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/register/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db/Dbcon.java" />
+    <entry file="file://$PROJECT_DIR$/web/controller/chatController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/event/addevents.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-end-line="144" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/event/events.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="true" selection-end-line="118" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/event/header_events.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/event/myevents.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="62" lean-forward="true" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/auth/LogoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/job/PostJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/job/file.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/job/FileUpload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/controller/jobsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/EventDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/EventsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="873">
+          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/event/LoadEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/event/AddEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/controller/postsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/comments/AddComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/comments/DeleteComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/CommentsEventsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/CommentsJobsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/security/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="33" column="63" lean-forward="true" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/register/reg_uni.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/register/reg_students.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/register/reg_industrial.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/IndustrialController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/UniversityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/auth/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/auth/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/job/post_job.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/job/job.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/comments/LoadComments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="56" lean-forward="true" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/CommentDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/url_controller/job/LoadJobs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cb0bd696-f092-4c58-9d1d-07ae4a784a32/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="14" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/db_controller/JobController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="131" column="29" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/home/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" selection-start-line="1" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/home/header_home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="211" selection-start-line="18" selection-start-column="211" selection-end-line="18" selection-end-column="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/job/header_jobs.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dump20190421.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4114">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>LinkSpaces:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LinkSpaces</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json-simple-1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
